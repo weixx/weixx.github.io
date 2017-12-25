@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+  <url>
+    <loc>http://blog.niubidiaozhatian.top/2017/12/21/%E5%88%86%E7%B1%BB/</loc>
+    <lastmod>2017-12-21T08:19:23.373Z</lastmod>
+    <data>
+        <display>
+        <title>分类测试文章</title>
+        <pubTime>2017-12-21T08:18:16.424Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="分类测试" url="http://blog.niubidiaozhatian.top/categories/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.niubidiaozhatian.top/2017/12/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2017-12-21T08:17:59.339Z</lastmod>
+    <data>
+        <display>
+        <title>世界如此美妙</title>
+        <pubTime>2017-12-21T03:29:21.733Z</pubTime>
+        
+        <tag>app</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://blog.niubidiaozhatian.top/2017/12/21/%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2017-12-21T08:07:45.803Z</lastmod>
+    <data>
+        <display>
+        <title>标签测试文章</title>
+        <pubTime>2017-12-21T08:07:36.217Z</pubTime>
+        
+        <tag>Testing</tag>
+         
+        <tag>Another Tag</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://blog.niubidiaozhatian.top/2017/12/20/hello-world/</loc>
+    <lastmod>2017-12-20T10:00:12.095Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2017-12-20T10:00:12.095Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
