@@ -37,23 +37,23 @@
           <ul>
             
               <li class="menu-item">
-                <a href="/" class="menu-item-link"><i class="iconfont icon-home"></i>Home</a>
+                <a href="/" class="menu-item-link"><i class="iconfont icon-home"></i>首页</a>
               </li>
             
               <li class="menu-item">
-                <a href="/archives" class="menu-item-link"><i class="iconfont icon-archive"></i>Archive</a>
+                <a href="/archives" class="menu-item-link"><i class="iconfont icon-archive"></i>归档</a>
               </li>
             
               <li class="menu-item">
-                <a href="/categories" class="menu-item-link"><i class="iconfont icon-category"></i>Category</a>
+                <a href="/categories" class="menu-item-link"><i class="iconfont icon-category"></i>分类</a>
               </li>
             
               <li class="menu-item">
-                <a href="/tags" class="menu-item-link"><i class="iconfont icon-tags"></i>Tags</a>
+                <a href="/tags" class="menu-item-link"><i class="iconfont icon-tags"></i>标签</a>
               </li>
             
               <li class="menu-item">
-                <a href="/about" class="menu-item-link"><i class="iconfont icon-about"></i>About</a>
+                <a href="/about" class="menu-item-link"><i class="iconfont icon-about"></i>关于</a>
               </li>
             
           </ul>
@@ -136,8 +136,18 @@
   </nav>
 
 
-          
+          <!--
 
+-->
+<!--PC和WAP自适应版-->
+<div id="SOHUCS" sid="page.title" ></div> 
+<script type="text/javascript"> 
+(function(){ 
+var appid = 'cytnSUP3w'; 
+var conf = '7e7c72231d3f7b7348591e69009e43bb'; 
+var width = window.innerWidth || document.documentElement.clientWidth; 
+if (width < 960) { 
+window.document.write('<script id="changyan_mobile_js" charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/mobile/wap-js/changyan_mobile.js?client_id=' + appid + '&conf=' + conf + '"><\/script>'); } else { var loadJs=function(d,a){var c=document.getElementsByTagName("head")[0]||document.head||document.documentElement;var b=document.createElement("script");b.setAttribute("type","text/javascript");b.setAttribute("charset","UTF-8");b.setAttribute("src",d);if(typeof a==="function"){if(window.attachEvent){b.onreadystatechange=function(){var e=b.readyState;if(e==="loaded"||e==="complete"){b.onreadystatechange=null;a()}}}else{b.onload=a}}c.appendChild(b)};loadJs("https://changyan.sohu.com/upload/changyan.js",function(){window.changyan.api.config({appid:appid,conf:conf})}); } })(); </script>
       </main>
     </div>
     <footer>
@@ -181,9 +191,9 @@
       
       <div class="copyright">
         <p>
-          Powered by <a href="https://hexo.io/">Hexo</a>
+          由 <a href="https://hexo.io/">Hexo</a> 强力驱动
           <span>|</span>
-          Theme - <a href="https://github.com/wa-ri/hexo-theme-ztopic">ztopic</a
+          主题 - <a href="https://github.com/wa-ri/hexo-theme-ztopic">ztopic</a
         </p>
         <p>
           <span>
@@ -206,15 +216,15 @@
   <div id="mobile-nav">
   <nav id="mobile-nav-menu">
     
-      <a href="/" class="mobile-nav-link"><i class="iconfont icon-home"></i>Home</a>
+      <a href="/" class="mobile-nav-link"><i class="iconfont icon-home"></i>首页</a>
     
-      <a href="/archives" class="mobile-nav-link"><i class="iconfont icon-archive"></i>Archive</a>
+      <a href="/archives" class="mobile-nav-link"><i class="iconfont icon-archive"></i>归档</a>
     
-      <a href="/categories" class="mobile-nav-link"><i class="iconfont icon-category"></i>Category</a>
+      <a href="/categories" class="mobile-nav-link"><i class="iconfont icon-category"></i>分类</a>
     
-      <a href="/tags" class="mobile-nav-link"><i class="iconfont icon-tags"></i>Tags</a>
+      <a href="/tags" class="mobile-nav-link"><i class="iconfont icon-tags"></i>标签</a>
     
-      <a href="/about" class="mobile-nav-link"><i class="iconfont icon-about"></i>About</a>
+      <a href="/about" class="mobile-nav-link"><i class="iconfont icon-about"></i>关于</a>
     
     <div class="mobile-intro"><i class="iconfont icon-pen"></i>good good study,day day up！</div>
   </nav>
